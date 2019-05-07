@@ -1,0 +1,9 @@
+# ignore everything
+*
+# except
+!.gitignore
+!*.h
+!*.c
+!*.md
+!makefile
+!backupServer
